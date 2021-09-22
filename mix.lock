@@ -1,0 +1,7 @@
+%{
+  "etoml": {:hex, :etoml, "0.1.0", "cf65f87b4c07ff05183ad3198148b6583035e1588da930e698adc39afa1ae03d", [:rebar3], [], "hexpm", "0ce759092b50a8ea9681402185df1b3eeb9b551fc923c42d3e0c180979021851"},
+  "tomerl": {:hex, :tomerl, "0.5.0", "6e7ceac151ac573b87b985f3d2112f29933b89ba0693fa741318d899a17ac318", [:rebar3], [], "hexpm", "2a7fb62f9ebf0e75561b39255638bc2b805b437c86fec538657e7c3b576979fa"},
+  "toml": {:hex, :toml, "0.6.2", "38f445df384a17e5d382befe30e3489112a48d3ba4c459e543f748c2f25dd4d1", [:mix], [], "hexpm", "d013e45126d74c0c26a38d31f5e8e9b83ea19fc752470feb9a86071ca5a672fa"},
+  "toml_elixir": {:hex, :toml_elixir, "2.0.1", "880d5d77e710791671faeaa60996a10ecba0fb6ef539271db162da9f3016d7a1", [:mix], [], "hexpm", "bb365dadbb280fee3363e1b3f5e818d774b69e2c59b0e7ab63959385a9405cfd"},
+  "tomlex": {:hex, :tomlex, "0.0.5", "7431c9adcf3b9fdda92750649fadd84ab16c5a061c418709609b4ffef7a1981f", [:mix], [], "hexpm", "00b88d26e6b7547d807550c5028bd75ee3f1ced15bbcc47768995d19b95c732b"},
+}

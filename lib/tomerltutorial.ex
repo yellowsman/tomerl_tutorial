@@ -3,16 +3,11 @@ defmodule Tomerltutorial do
   Documentation for `Tomerltutorial`.
   """
 
-  @doc """
-  Hello world.
+  def parse_v1_0_0() do
+    File.read!("v1.0.0.toml") |> :tomerl.parse
+  end
 
-  ## Examples
-
-      iex> Tomerltutorial.hello()
-      :world
-
-  """
-  def hello do
-    :world
+  def parse_sample() do
+    File.read!("sample.toml") |> :tomerl.parse
   end
 end
